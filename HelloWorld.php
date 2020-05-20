@@ -1,4 +1,2 @@
 <?php
-class HelloWorld
-{
-}
+echo "Hello World";

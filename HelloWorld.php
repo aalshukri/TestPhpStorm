@@ -2,6 +2,11 @@
 echo "Hello World" . "\n</br>";
 
 $name = 'Ash';
+
+echo $name;
+
+
+$name = 'Ash';
 $fruits = array('apple', 'pear', 'lemon');
 
 foreach ($fruits as $fruit){

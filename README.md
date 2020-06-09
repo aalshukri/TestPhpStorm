@@ -2,4 +2,4 @@
 testing php storm integration.
 
 
-for futher developments see (private) [repo](https://github.com/aalshukri/TestPhpStormLaravel)
+for futher developments see [DevelopmentEnvironments](https://github.com/aalshukri/DevelopmentEnvironments) repository.
